@@ -15,7 +15,7 @@ const categoryNames = {
 };
 
 const defaultProducts = [
-    { id: 1, name: 'Microsoft Office 2024', nameAr: 'مايكروسوفت أوفيس 2024', price: 4500, category: 'numerique', categoryAr: 'منتوجات رقمية', description: 'Licence originale Office 2024 Pro Plus', descriptionAr: 'ترخيص أصلي أوفيس 2024 برو بلس', image: 'https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=400' },
+    { id: 1, name: 'Microsoft Office 2024', nameAr: 'مايكروسوفت أوفيس 2026', price: 4500, category: 'numerique', categoryAr: 'منتوجات رقمية', description: 'Licence originale Office 2024 Pro Plus', descriptionAr: 'ترخيص أصلي أوفيس 2024 برو بلس', image: 'https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=400' },
     { id: 2, name: 'Adobe Creative Cloud', nameAr: 'أدوبي كريتيف كلاود', price: 8000, category: 'numerique', categoryAr: 'منتوجات رقمية', description: 'Abonnement annuel Adobe CC complet', descriptionAr: 'اشتراك سنوي أدوبي سي سي كامل', image: 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400' },
     { id: 3, name: 'Guide Marketing Digital', nameAr: 'دليل التسويق الرقمي', price: 1500, category: 'numerique', categoryAr: 'منتوجات رقمية', description: 'E-book complet sur le marketing digital', descriptionAr: 'كتاب إلكتروني شامل عن التسويق الرقمي', image: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400' },
     { id: 4, name: 'Formation Développement Web', nameAr: 'دورة تطوير الويب', price: 3500, category: 'numerique', categoryAr: 'منتوجات رقمية', description: 'Cours complet HTML, CSS, JavaScript', descriptionAr: 'دورة كاملة HTML, CSS, JavaScript', image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400' },
