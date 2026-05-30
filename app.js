@@ -9,7 +9,7 @@ let adminUnlocked = false;
 let searchTerm = '';
 
 const categoryNames = {
-    numerique: { fr: 'Produits Numériques', ar: '8منتوجات رقمية' },
+    numerique: { fr: 'Produits Numériques', ar: 'منتوجات رقمية' },
     electronique: { fr: 'Appareils Électroniques', ar: 'أجهزة إلكترونية' },
     solaire: { fr: 'Énergie Solaire', ar: 'طاقة شمسية' }
 };
